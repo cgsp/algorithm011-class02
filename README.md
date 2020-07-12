@@ -25,3 +25,13 @@
 ## 注意事项
 
  如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+
+ ## 作业地址
+#学号: G20200343080270
+#姓名: 关赛鹏
+#班级: algorithm011-class02
+#语言: JavaScript
+#作业链接: https://github.com/cgsp/algorithm011-class02/blob/master/Week_02/week02_homewirk.js
+#总结链接: https://github.com/cgsp/algorithm011-class02/blob/master/Week_02/README.md
+
+https://github.com/algorithm011-class02/algorithm011-class02/issues
